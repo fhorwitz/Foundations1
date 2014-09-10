@@ -4,4 +4,4 @@ This repository includes homework for Foundations 1 class, code fellows. The web
 There are 3 files included in this repo -
 Oxdata.html - the original code from the website
 oxdata_modified.html - rebuild of oxdata.com
-oxdata outline.html - generated from html5 outliner
+oxdata outline - generated from html5 outliner
